@@ -1,0 +1,3 @@
+routes:
+  foo: http://localhost:8081/
+  bar: http://localhost:8081
